@@ -5,7 +5,6 @@ from datetime import datetime
 
 
 base_url = "https://www.ncei.noaa.gov/data/local-climatological-data/access/2021/"
-
 target = datetime.strptime("2024-01-19 10:27", "%Y-%m-%d %H:%M")
 
 
